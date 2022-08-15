@@ -1,5 +1,17 @@
-.block{
-  width: 500px;
-  height: 500px;
-  border: 2px solid blue;
+.App {
+  margin: 0 auto;
+  text-align: center;
+}
+.App input {
+  background-color: rgb(235, 139, 139);
+  border-radius: 20px;
+}
+.App div {
+  margin-top: 30px;
+
+}
+.App button{
+  color: white;
+  background-color: green;
+  border-radius: 20px;
 }
